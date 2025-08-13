@@ -1,0 +1,6 @@
+../Core/Src/main.c:63:7:calc_mean	24	static
+../Core/Src/main.c:69:7:calc_ac	24	static
+../Core/Src/main.c:77:7:calc_spo2	40	static
+../Core/Src/main.c:94:5:main	40	static
+../Core/Src/main.c:158:6:SystemClock_Config	72	static
+../Core/Src/main.c:201:6:Error_Handler	4	static,ignoring_inline_asm

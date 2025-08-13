@@ -1,0 +1,2 @@
+../Core/Src/max30100.c:3:6:MAX30100_Init	40	static
+../Core/Src/max30100.c:13:6:MAX30100_ReadRaw	48	static
